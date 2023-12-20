@@ -53,6 +53,8 @@ this project serves as a fundamental tool for modernizing and enhancing the oper
    ## **some queries are as follows**
    ![total number of ingredients of each cuisine](https://github.com/Mandarsir24/Food-Ordering-Management-Project-/assets/152494714/e0ca2326-7a74-45a0-9310-e94d461f2c15)
 )
+
+
 ![total cost of each order](https://github.com/Mandarsir24/Food-Ordering-Management-Project-/assets/152494714/732da0e3-68b2-49e3-9e09-d2e913403afa)
 
 
