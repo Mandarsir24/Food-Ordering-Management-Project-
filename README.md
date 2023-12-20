@@ -1,9 +1,9 @@
 # Food-Ordering-Management-Project-
-With an online food ordering system, you can accept and manage online orders for delivey for takeaway orders.
+With an online food ordering system, you can accept and manage online orders for delivery for takeaway orders.
 customers view a digital menu, such as app or website , and place and pay online. 
-venues then receive the order information via their preferred online food ordering platform and prepare the order for delivery or customerpickup.
+venues then receive the order information via their preferred online food ordering platform and prepare the order for delivery or customer pickup.
 the Online Food Ordering System Database Management Project is a comprehensive software solution designated to streamline and optimize the operations of a food delivery and takeout service. 
-This project encomoasses the entire spectrum of managing customer information, cuisine categories, employees,chef,ingredients,fooditem, beverages,deliveries,orders, 
+This project encompasses the entire spectrum of managing customer information, cuisine categories, employees, chef, ingredients, fooditem, beverages,deliveries,orders, 
 and payments within the online food ordering ecosystem. 
 
 ## **Key Components**
@@ -22,7 +22,7 @@ The system tracks information aboyt employees involved in food preparation , del
 
 **Chef Management**
 
-For food preparation and quality control, the project tracks chef details , linking them to specific cuisines. chef information includes name, contact information and a reference to their cuisine specializatio and employee association.
+For food preparation and quality control, the project tracks chef details , linking them to specific cuisines. chef information includes name, contact information and a reference to their cuisine specialization and employee association.
 
 **Ingredient Management**
 
@@ -51,9 +51,11 @@ The Online Food Ordering System Database Management Project not only fascilitate
 this project serves as a fundamental tool for modernizing and enhancing the operations of food ordering services, delivering convenience to both customers and providers.
    we are using Mysql to  solve manage business problems by these queries.
    ## **some queries are as follows**
+   **1.** **Total number of ingredients of each cuisine**
    ![total number of ingredients of each cuisine](https://github.com/Mandarsir24/Food-Ordering-Management-Project-/assets/152494714/e0ca2326-7a74-45a0-9310-e94d461f2c15)
-)
 
+
+**2.** ** Total cost of each order**
 
 ![total cost of each order](https://github.com/Mandarsir24/Food-Ordering-Management-Project-/assets/152494714/732da0e3-68b2-49e3-9e09-d2e913403afa)
 
