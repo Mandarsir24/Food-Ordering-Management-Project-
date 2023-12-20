@@ -49,6 +49,7 @@ It records customer orders, calculating total costs and referencing individual f
 This component handles the financial aspect of the system, managing payment methods and connecting payments to specific customers and their respective orders. 
 The Online Food Ordering System Database Management Project not only fascilitates efficient order processing but also assists in managing the entire food delivery ecosystem. The use of primary and foreign keys in the database design ensures data integrity , relationships between different entities, and efficient retrieval of information .
 this project serves as a fundamental tool for modernizing and enhancing the operations of food ordering services, delivering convenience to both customers and providers.
+   we are using Mysql to  solve manage business problems by these queries.
 
 
 
