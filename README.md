@@ -9,30 +9,39 @@ and payments within the online food ordering ecosystem.
 ##**Key Components**
 
 **Customer Management** 
+
 The system captures and maintains essential customer information,including personal details, contact information , allergies and a unique customer Id for each order .
 
 **cuisine Management**
+
 It allows for categorizing various cuisines, enabling efficient organization of food items based on their culinary styles and origins. Each cuisine is assigned a unique cuisine Id
 
 **Employee Management**
+
 The system tracks information aboyt employees involved in food preparation , delivery and customer service, employee details include Names, contact information ,salary and a unique employeeID.
 
 **Chef Management**
+
 For food preparation and quality control, the project tracks chef details , linking them to specific cuisines. chef information includes name, contact information and a reference to their cuisine specializatio and employee association.
 
 **Ingredient Management**
+
 Ingredients used in food preparation are cataloged, with each ingredient assigned a unique identifier for easy reference.
 
 **Food item Management**
+
 The system provides an extensive database of food items available for order, encompassing details such as name, price, quantity, availability, and references to their respective cuisine, ingredients and chefs.
 
 **Beverage Management**
+
 The project includes section for managing beverage items, capturing data such as a name, quantity, and availability.
 
 **Delivery Management**
+
 The system overseas the logistics for food deliveries, maintaining information about delivery personnel , vehicles charges, dates and times. Deliveries are associated with specific customers and employees, ensurring efficient tracking and execution.
 
 **Order Management**
+
 It records customer orders, calculating total costs and referencing individual food items, beverages, and delivery information. Each order is identified by a unique order ID.
 
 **Payment Management**
