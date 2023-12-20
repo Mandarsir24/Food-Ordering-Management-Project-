@@ -6,7 +6,7 @@ the Online Food Ordering System Database Management Project is a comprehensive s
 This project encomoasses the entire spectrum of managing customer information, cuisine categories, employees,chef,ingredients,fooditem, beverages,deliveries,orders, 
 and payments within the online food ordering ecosystem. 
 
-##**Key Components**
+## **Key Components**
 
 **Customer Management** 
 
